@@ -1,6 +1,14 @@
 # DoomsDay_Fractals
 ## Fractal Simulation using the Mandelbrot and Julia set. 
 
+## Controls-
+```
+> WSAD - Move Forward, Back, Left, and Right
+> Q - Rotate Left
+> R - Rotate Right
+> + (Num Pad plus) - Zoom In
+> - (Num Pad Minus) - Zoom Out
+``` 
 # **MandelBrot Set :**
 ![Madelbrot1](https://github.com/ArnavKucheriya/DoomsDay_Fractals/blob/main/ReadMeImgs/Screenshot%20(1).png)
 
