@@ -14,9 +14,7 @@
 
 ![Madelbrot2](https://github.com/ArnavKucheriya/DoomsDay_Fractals/blob/main/ReadMeImgs/Screenshot%20(2).png)
 
-<div style="width:60px ; height:60px">
-![Mandelbrot3](https://github.com/ArnavKucheriya/DoomsDay_Fractals/blob/main/ReadMeImgs/Screenshot%20(3).png)
-<div>
+![Mandelbrot3](https://github.com/ArnavKucheriya/DoomsDay_Fractals/blob/main/ReadMeImgs/Screenshot%20(3).png =250X250)
 
 # **Julia Set :** 
 ![Julia1](https://github.com/ArnavKucheriya/DoomsDay_Fractals/blob/main/ReadMeImgs/Screenshot%20(5).png)
